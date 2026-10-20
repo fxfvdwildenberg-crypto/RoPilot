@@ -1,9 +1,11 @@
 # RoPilot
 A software for the WINCTRL A320 that allows you to combine A320 hardware with Robloc flight simulators
 
-Currently we do not have a good tutorial on how to use it but here is kinda the basis
-ROPILOT is a software made by Beta (@astromat1c on discord), its a software that supports most roblox flight simulators that connects Winctrl products to roblox giving roblox flight simulators extra realism, to start head over to the ropilot github found here {add link soon}
+ROPILOT is a software made by Beta (@astromat1c on discord), its a software that supports most roblox flight simulators that connects Winctrl products to roblox giving roblox flight simulators extra realism. 
 
+Currently we do not have a good tutorial on how to use it but here is kinda the basis.
+
+Download the Ropilot.exe file,
 After downloading go to your downloads and open the ropilot app,
 You will see a screen with settings, before you configure that you have to plugin your devices,
 Ropilot currently only supports the WINCTRL A320 Throttle, PAC and joystick
