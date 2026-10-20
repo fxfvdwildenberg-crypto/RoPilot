@@ -16,3 +16,6 @@ You will also see some logic options in the throttle and PAC, make sure that the
 
 Make sure to save your settings in the top bar,
 And your done!, Have fun flying with realistic A320 hardware in Roblox
+
+<img width="4032" height="1877" alt="image" src="https://github.com/user-attachments/assets/27cb7591-5a87-4ae4-9234-0e69269dc6fa" />
+
